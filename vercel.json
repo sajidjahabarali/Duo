@@ -1,4 +1,3 @@
 {
-  "buildCommand": "react-router build",
-  "outputDirectory": ".vercel/output"
+  "framework": "remix"
 }
